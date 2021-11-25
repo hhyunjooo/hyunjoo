@@ -2,8 +2,9 @@
 
 #### I am majoring Human Intelligence Information Engineering.
 
-**Skills: python / C / Java / kotlin /**
+**Skills: python / C / Java / kotlin **
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 - 🔭 I’m currently working on Sangmyung University. 
 - 🌱 I’m currently learning I am studying AI, Bigdata, etc. 
