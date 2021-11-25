@@ -2,7 +2,7 @@
 
 #### I am majoring Human Intelligence Information Engineering.
 
-Skills: python / C / Java / kotlin
+Skills: python / C / Java / kotlin /
 
 - 🔭 I’m currently working on Sangmyung University. 
 - 🌱 I’m currently learning I am studying AI, Bigdata, etc. 
