@@ -2,7 +2,6 @@
 ### Hi there 👋, my name is Hyunjoo
 
 
-
 #### I am majoring Human Intelligence Information Engineering.
 
 
