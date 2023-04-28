@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Java&logoColor=white"/></a>
 
-- 🔭 I’m currently working on Sangmyung University. 
 - 🌱 I’m currently learning I am studying AI, Bigdata, etc. 
 
 
