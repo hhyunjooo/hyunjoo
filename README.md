@@ -18,9 +18,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hyunjoolee201910828)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hyunjoo__00/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blog.naver.com/joo000705)  
 
 
-프로젝트목록 | 일자 | 사용기술 | 링크
+프로젝트목록 | 일자 | 사용기술 | 
 ------------|------|-------|
-금융상품서비스 | 2023 | Node | [네이버] (www.naver.com)
+금융상품서비스 | 2023 | Node | 
 금융추천시스템 | 2023 | Vue 
 
 ![화면 캡처 2023-04-28 115211](https://user-images.githubusercontent.com/79887655/235043087-ecee2556-1b99-4966-a3f4-aa67492544f9.png)
